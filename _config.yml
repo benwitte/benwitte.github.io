@@ -1,18 +1,18 @@
-title: Taino Pacheco
+title: ben witte
 tagline: Blog | Projects | Code 
 
 author:
-  name:  Taino Pacheco
-  email: pacheco.taino@gmail.com
-  twitter: tai_pach
-  github: tai-pach
+  name:  ben witte
+  email: wittebens@gmail.com
+  twitter: test
+  github: benwitte
   
 include: ['_pages']
   
 layout: post
 permalink: /:categories/:title/
 
-url: http://tai-pach.github.io
+url: http://benwitte.github.io
 
 markdown: kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
