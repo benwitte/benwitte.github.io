@@ -23,7 +23,7 @@ layout: null
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ site.url }}{{ post.id }}</id>
    <content type="html">
-    {{ post.content | replace: 'src="/', 'src="http://tai-pach.github.io/' | xml_escape }}
+    {{ post.content | replace: 'src="/', 'src="http://benwitte.github.io/' | xml_escape }}
     </content>
  </entry>
  {% endfor %}
