@@ -14,7 +14,7 @@
   }
   
   data = [
-    "my collection of code, projects, and blog posts",
+    "Data and Digital Storytelling",
     ""
     ];
   
